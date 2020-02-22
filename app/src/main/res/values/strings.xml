@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">FoodTracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="slogan">Za nastavak molimo prijavite se ili se registrirajte!</string>
+
+    <string name="spol_prompt">Izaberi spol:</string>
+    <string name="profil_prompt">Odaberi profil:</string>
+    <string name="aktivnost_prompt">Izaberi aktivnost</string>
+    <string-array name="aktivnost_arrays">
+        <item>1 - Aktivan (dnevna tjelovježba)</item>
+        <item>2 - Slabo aktivan (</item>
+        <item>3 - Neaktivan</item>
+    </string-array>
+
+    <string-array name="spol">
+        <item>Muško</item>
+        <item>Žensko</item>
+    </string-array>
+    <string-array name="odabirProfil">
+        <item>1. Želim izgubiti na kilaži</item>
+        <item>2. Želim održati svoju kilažu</item>
+        <item>3. Želim dobiti na kilaži</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

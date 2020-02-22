@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705632595133",
+    "firebase_url": "https://sudec1.firebaseio.com",
+    "project_id": "sudec1",
+    "storage_bucket": "sudec1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705632595133:android:59b42ed1c43ea10f",
+        "android_client_info": {
+          "package_name": "com.example.pokusaj3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705632595133-fu7qe4vjo5kc7pntajfdumjp9g2r3vvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pokusaj3",
+            "certificate_hash": "8baf798024de93f2ea400d1aeaff7eee361cb7df"
+          }
+        },
+        {
+          "client_id": "705632595133-2oo6c3s2lngmivuma27ijdo4mauovqk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvQmVcfGNBfPQQ36B-FJwxUhYt_CWGG2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705632595133-2oo6c3s2lngmivuma27ijdo4mauovqk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
